@@ -1,0 +1,25 @@
+body {
+  font-family: sans-serif;
+}
+
+.animal {
+  width: 19%;
+  float: left;
+  margin-right: 6px;
+}
+.animals {
+  width: 19%;
+  float: left;
+  margin-right: 6px;
+}
+
+img {
+  width: 100%;
+}
+
+.animal h3 {
+  font-style: italic;
+}
+.animals p {
+  font-style: italic;
+}
